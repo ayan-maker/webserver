@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/hy/c++/HTTPS/build",
+  "command": "/usr/bin/g++    -I/usr/include/mysql -I/home/hy/c++/json-develop/include -I/home/hy/c++/HTTPS/webserver  -g   -Wall -g -std=gnu++11 -o CMakeFiles/HTTP_server.dir/main.cpp.o -c /home/hy/c++/HTTPS/main.cpp",
+  "file": "/home/hy/c++/HTTPS/main.cpp"
+},
+{
+  "directory": "/home/hy/c++/HTTPS/build/timer",
+  "command": "/usr/bin/g++    -I/usr/include/mysql -I/home/hy/c++/json-develop/include -I/home/hy/c++/HTTPS/webserver  -g   -Wall -g -std=gnu++11 -o CMakeFiles/timer.dir/timer.cpp.o -c /home/hy/c++/HTTPS/timer/timer.cpp",
+  "file": "/home/hy/c++/HTTPS/timer/timer.cpp"
+},
+{
+  "directory": "/home/hy/c++/HTTPS/build/LOCK",
+  "command": "/usr/bin/g++    -I/usr/include/mysql -I/home/hy/c++/json-develop/include -I/home/hy/c++/HTTPS/webserver  -g   -Wall -g -std=gnu++11 -o CMakeFiles/lock.dir/lock.cpp.o -c /home/hy/c++/HTTPS/LOCK/lock.cpp",
+  "file": "/home/hy/c++/HTTPS/LOCK/lock.cpp"
+},
+{
+  "directory": "/home/hy/c++/HTTPS/build/LOG",
+  "command": "/usr/bin/g++    -I/usr/include/mysql -I/home/hy/c++/json-develop/include -I/home/hy/c++/HTTPS/webserver  -g   -Wall -g -std=gnu++11 -o CMakeFiles/log.dir/log.cpp.o -c /home/hy/c++/HTTPS/LOG/log.cpp",
+  "file": "/home/hy/c++/HTTPS/LOG/log.cpp"
+},
+{
+  "directory": "/home/hy/c++/HTTPS/build/sql_connection_pool",
+  "command": "/usr/bin/g++    -I/usr/include/mysql -I/home/hy/c++/json-develop/include -I/home/hy/c++/HTTPS/webserver  -g   -Wall -g -std=gnu++11 -o CMakeFiles/sql_conn.dir/sql_connection_pool.cpp.o -c /home/hy/c++/HTTPS/sql_connection_pool/sql_connection_pool.cpp",
+  "file": "/home/hy/c++/HTTPS/sql_connection_pool/sql_connection_pool.cpp"
+},
+{
+  "directory": "/home/hy/c++/HTTPS/build/http_conn",
+  "command": "/usr/bin/g++    -I/usr/include/mysql -I/home/hy/c++/json-develop/include -I/home/hy/c++/HTTPS/webserver  -g   -Wall -g -std=gnu++11 -o CMakeFiles/http_conn.dir/http_conn.cpp.o -c /home/hy/c++/HTTPS/http_conn/http_conn.cpp",
+  "file": "/home/hy/c++/HTTPS/http_conn/http_conn.cpp"
+},
+{
+  "directory": "/home/hy/c++/HTTPS/build/webserver",
+  "command": "/usr/bin/g++    -I/usr/include/mysql -I/home/hy/c++/json-develop/include -I/home/hy/c++/HTTPS/webserver  -g   -Wall -g -std=gnu++11 -o CMakeFiles/webserver.dir/webserver.cpp.o -c /home/hy/c++/HTTPS/webserver/webserver.cpp",
+  "file": "/home/hy/c++/HTTPS/webserver/webserver.cpp"
+}
+]

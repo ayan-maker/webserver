@@ -1,0 +1,4 @@
+123-04-02 01:46:08 [info]:log init successful
+123-04-02 01:46:08 [info]:mysql connection pool initialized
+123-04-02 01:46:08 [info]:pthread pool initialized
+123-04-02 01:46:10 [info]:task connected

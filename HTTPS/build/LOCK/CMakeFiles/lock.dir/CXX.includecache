@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hy/c++/HTTPS/LOCK/lock.cpp
+lock.h
+/home/hy/c++/HTTPS/LOCK/lock.h
+
+/home/hy/c++/HTTPS/LOCK/lock.h
+stdio.h
+-
+pthread.h
+-
+semaphore.h
+-
+exception
+-
+

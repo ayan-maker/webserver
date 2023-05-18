@@ -1,0 +1,2 @@
+/usr/bin/ar qc libblock_queue.a  CMakeFiles/block_queue.dir/Block_queue.cpp.o
+/usr/bin/ranlib libblock_queue.a

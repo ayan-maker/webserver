@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhttp_conn.a  CMakeFiles/http_conn.dir/http_conn.cpp.o
+/usr/bin/ranlib libhttp_conn.a

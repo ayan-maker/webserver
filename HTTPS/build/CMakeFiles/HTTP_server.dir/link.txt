@@ -1,0 +1,1 @@
+/usr/bin/g++   -g  -lpthread -L/usr/lib64/mysql -lmysqlclient CMakeFiles/HTTP_server.dir/main.cpp.o  -o HTTP_server  -L/usr/lib64/mysql webserver/libwebserver.a http_conn/libhttp_conn.a sql_connection_pool/libsql_conn.a LOG/liblog.a LOCK/liblock.a -lmysqlclient timer/libtimer.a -Wl,-rpath,/usr/lib64/mysql 

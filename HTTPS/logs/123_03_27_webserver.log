@@ -1,0 +1,100 @@
+123-03-27 22:47:47 [info]:log init successful
+123-03-27 22:47:47 [info]:mysql connection pool initialized
+123-03-27 22:47:47 [info]:pthread pool initialized
+123-03-27 22:48:08 [info]:task connected
+123-03-27 22:49:21 [info]:log init successful
+123-03-27 22:49:21 [info]:mysql connection pool initialized
+123-03-27 22:49:21 [info]:pthread pool initialized
+123-03-27 22:49:31 [info]:log init successful
+123-03-27 22:49:31 [info]:mysql connection pool initialized
+123-03-27 22:49:31 [info]:pthread pool initialized
+123-03-27 22:49:36 [info]:task connected
+123-03-27 22:51:47 [info]:log init successful
+123-03-27 22:51:47 [info]:mysql connection pool initialized
+123-03-27 22:51:47 [info]:pthread pool initialized
+123-03-27 22:51:56 [info]:log init successful
+123-03-27 22:53:13 [info]:log init successful
+123-03-27 22:53:34 [info]:log init successful
+123-03-27 23:03:21 [info]:log init successful
+123-03-27 23:03:24 [info]:mysql connection pool initialized
+123-03-27 23:03:24 [info]:pthread pool initialized
+123-03-27 23:04:33 [info]:log init successful
+123-03-27 23:04:53 [info]:task connected
+123-03-27 23:04:57 [info]:mysql connection pool initialized
+123-03-27 23:04:57 [info]:pthread pool initialized
+123-03-27 23:05:33 [info]:log init successful
+123-03-27 23:05:42 [info]:mysql connection pool initialized
+123-03-27 23:05:42 [info]:pthread pool initialized
+123-03-27 23:06:41 [info]:log init successful
+123-03-27 23:07:04 [info]:task connected
+123-03-27 23:07:10 [info]:mysql connection pool initialized
+123-03-27 23:07:11 [info]:pthread pool initialized
+123-03-27 23:07:23 [info]:log init successful
+123-03-27 23:07:23 [info]:mysql connection pool initialized
+123-03-27 23:07:23 [info]:pthread pool initialized
+123-03-27 23:07:24 [info]:task connected
+123-03-27 23:07:34 [info]:task connected
+123-03-27 23:08:25 [info]:log init successful
+123-03-27 23:08:25 [info]:mysql connection pool initialized
+123-03-27 23:08:25 [info]:pthread pool initialized
+123-03-27 23:08:37 [info]:task connected
+123-03-27 23:21:59 [info]:log init successful
+123-03-27 23:21:59 [info]:mysql connection pool initialized
+123-03-27 23:21:59 [info]:pthread pool initialized
+123-03-27 23:22:56 [info]:log init successful
+123-03-27 23:22:56 [info]:mysql connection pool initialized
+123-03-27 23:22:56 [info]:pthread pool initialized
+123-03-27 23:22:57 [info]:task connected
+123-03-27 23:23:07 [info]:task connected
+123-03-27 23:23:16 [info]:log init successful
+123-03-27 23:23:16 [info]:mysql connection pool initialized
+123-03-27 23:23:16 [info]:pthread pool initialized
+123-03-27 23:26:10 [info]:log init successful
+123-03-27 23:26:10 [info]:mysql connection pool initialized
+123-03-27 23:26:10 [info]:pthread pool initialized
+123-03-27 23:28:37 [info]:log init successful
+123-03-27 23:28:37 [info]:mysql connection pool initialized
+123-03-27 23:28:37 [info]:pthread pool initialized
+123-03-27 23:29:02 [info]:task connected
+123-03-27 23:29:23 [info]:task connected
+123-03-27 23:29:41 [info]:log init successful
+123-03-27 23:29:41 [info]:mysql connection pool initialized
+123-03-27 23:29:41 [info]:pthread pool initialized
+123-03-27 23:38:57 [info]:log init successful
+123-03-27 23:38:57 [info]:mysql connection pool initialized
+123-03-27 23:38:57 [info]:pthread pool initialized
+123-03-27 23:38:59 [info]:task connected
+123-03-27 23:39:13 [info]:task connected
+123-03-27 23:39:14 [info]:task connected
+123-03-27 23:39:24 [info]:log init successful
+123-03-27 23:39:24 [info]:mysql connection pool initialized
+123-03-27 23:39:24 [info]:pthread pool initialized
+123-03-27 23:42:00 [info]:log init successful
+123-03-27 23:42:00 [info]:mysql connection pool initialized
+123-03-27 23:42:00 [info]:pthread pool initialized
+123-03-27 23:42:35 [info]:task connected
+123-03-27 23:45:48 [info]:task connected
+123-03-27 23:46:38 [error]:eopll wait timeout
+123-03-27 23:46:49 [info]:log init successful
+123-03-27 23:46:49 [info]:mysql connection pool initialized
+123-03-27 23:46:49 [info]:pthread pool initialized
+123-03-27 23:50:31 [info]:log init successful
+123-03-27 23:50:31 [info]:mysql connection pool initialized
+123-03-27 23:50:31 [info]:pthread pool initialized
+123-03-27 23:50:44 [info]:task connected
+123-03-27 23:51:43 [info]:log init successful
+123-03-27 23:51:43 [info]:mysql connection pool initialized
+123-03-27 23:51:43 [info]:pthread pool initialized
+123-03-27 23:51:47 [info]:task connected
+123-03-27 23:52:59 [info]:log init successful
+123-03-27 23:53:00 [info]:mysql connection pool initialized
+123-03-27 23:53:00 [info]:pthread pool initialized
+123-03-27 23:53:00 [info]:task connected
+123-03-27 23:54:13 [info]:log init successful
+123-03-27 23:54:13 [info]:mysql connection pool initialized
+123-03-27 23:54:13 [info]:pthread pool initialized
+123-03-27 23:54:15 [info]:task connected
+123-03-27 23:55:14 [info]:log init successful
+123-03-27 23:55:14 [info]:mysql connection pool initialized
+123-03-27 23:55:14 [info]:pthread pool initialized
+123-03-27 23:55:14 [info]:task connected
